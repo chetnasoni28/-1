@@ -1,3 +1,3 @@
-project1
-This is my 1st git repository.
+<h1>project1</h1>
+This is my 1st git repository.<br>
 Author - chetna
